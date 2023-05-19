@@ -1,17 +1,12 @@
 # Grace Shopper
 
-[![Original Repo](https://img.shields.io/badge/Original%20Repo-kimpriscilla/grace--shopper-brightgreen)](https://github.com/kimpriscilla/grace-shopper)
-
-Forked for visibility 
-
-
 ## Table of Contents
 - [Description](#description) 
 - [Concepts and Libraries Studied](#concepts-and-libraries-studied)
 - [Preview](#preview)
 - [Credits](#credits)
 - [Demo Notice](#live-demo-notice) 
-
+- [Original Collaboration Location](#original-collaboration-location) 
 
 ## Description 
 
@@ -41,3 +36,9 @@ Grace Shopper is an e-commerce platform built using React and PostgreSQL. It con
 ## Live Demo Notice
 
 This was originally deployed on Heroku's now defunct free tier for hosting and postgres support. 
+
+## Original Collaboration Location
+
+[![Original Repo](https://img.shields.io/badge/Original%20Repo-kimpriscilla/grace--shopper-brightgreen)](https://github.com/kimpriscilla/grace-shopper)
+
+This repository is a cloned version of the original project due to the original organization's private view settings. A forked version is located on this account. Please contact me for access.
