@@ -1,13 +1,43 @@
-# Grace Barker 
+# Grace Shopper
 
-React SPA eCommerce website for pet adoptions.  
+[![Original Repo](https://img.shields.io/badge/Original%20Repo-kimpriscilla/grace--shopper-brightgreen)](https://github.com/kimpriscilla/grace-shopper)
 
-Concepts and libraries studied: 
-- Stripe payment implementation 
-- ChartJS, EmailJS, MUI front end design 
-- Utilization of bcrypt for authentication 
-- UX best practice design decisions 
-- React Router, server-side logic for role implementation and eforcement 
-- Cart persistence through use of localStorage, UUID, and db logic 
+Forked for visibility 
 
-Forked repo for visibility and available. Original location noted on repo specs but can be found here: https://github.com/kimpriscilla/grace-shopper 
+
+## Table of Contents
+- [Description](#description) 
+- [Concepts and Libraries Studied](#concepts-and-libraries-studied)
+- [Preview](#preview)
+- [Credits](#credits)
+- [Demo Notice](#live-demo-notice) 
+
+
+## Description 
+
+Grace Shopper is an e-commerce platform built using React and PostgreSQL. It connects ethical breeders and adoption sites with prospective pet owners. The project incorporates various libraries and services to enhance its functionality and user experience.
+
+## Concepts and Libraries Studied
+
+- Stripe payment implementation
+- ChartJS for data visualization
+- EmailJS for order and account registration confirmation
+- MUI for front-end design
+- Utilization of bcrypt for authentication
+- React Router for client-side routing
+- Server-side logic for role implementation and enforcement
+- Cart persistence through localStorage, UUID, and database logic
+
+## Preview
+
+![Grace Shopper](https://github.com/Kcrosas/PROJECTS-graceShopper-FSA/assets/90270082/e2bc9403-65b0-49c5-98d7-3eecd67c6cd6)
+
+## Credits
+
+- [Kenneth Rosas](https://github.com/kcrosas) 
+- [Priscilla Kim](https://github.com/kimpriscilla) 
+- [Jennifer Lu](https://github.com/jenniferlu32)  
+
+## Live Demo Notice
+
+This was originally deployed on Heroku's now defunct free tier for hosting and postgres support. 
